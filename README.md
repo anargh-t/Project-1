@@ -2,4 +2,4 @@
 Good stuff resides here
 This is sample project in the github
 <br>
-Author - Anargh
+Author - Anargh T
